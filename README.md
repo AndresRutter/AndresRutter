@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AndresRutter
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning Robotics Engineering
-- 💞️ I’m looking to collaborate on nothing in particular
+- 👀 I’m interested in: Many things
+- 🌱 I’m currently learning: Robotics Engineering
+- 💞️ I’m looking to collaborate on: Nothing in particular
 - 📫 How to reach me: andres.rutter@smccl.co.uk
 - 😄 Pronouns: Man
-- ⚡ Fun fact: Needs food and sleep
+- ⚡ Fun fact: Hungry and/or sleeping
 
 <!---
 AndresRutter/AndresRutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
