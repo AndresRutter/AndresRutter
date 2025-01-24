@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me: andres.rutter@smccl.co.uk
 - 😄 Pronouns: Man
-- ⚡ Fun fact:
+- ⚡ Fun fact: Needs food and sleep
 
 <!---
 AndresRutter/AndresRutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
