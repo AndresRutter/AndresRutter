@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: Lots
 - 📫 How to reach me: andres.rutter@smccl.co.uk
 - 😄 Pronouns: Man
-- ⚡ Fun fact: Hungry and/or sleeping
+- ⚡ Fun fact: Hungry
 
 <!---
 AndresRutter/AndresRutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
